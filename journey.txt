@@ -1,0 +1,7 @@
+Thus far, my favorite moment in coding temple was finally understanding Git and Github. I let the terminology
+scare me into thinking it was a difficult concept, when in reality it is super easy.
+
+Tooltime: My Favorite Editor at Code Temple?
+
+Tied between Webstorm and VS Code. It would be Webstorm were it not for the easy Git and GitHub integration
+that VS Code has built-in.
