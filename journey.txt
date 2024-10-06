@@ -4,4 +4,4 @@ scare me into thinking it was a difficult concept, when in reality it is super e
 Tooltime: My Favorite Editor at Code Temple?
 
 Tied between Webstorm and VS Code. It would be Webstorm were it not for the easy Git and GitHub integration
-that VS Code has built-in.
+that VS Code has built-in!
